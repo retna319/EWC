@@ -1,0 +1,2 @@
+# EWC
+Elastic Weight Consolidation
